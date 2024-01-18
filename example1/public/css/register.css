@@ -1,0 +1,28 @@
+.form-label,.btn{
+    font-weight: bold;
+}
+.form-control{
+    border: 1px solid black;
+}
+.col-12 .btn{
+    color: black;
+    background-color: orange;
+}
+.form-check{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 3px;
+}
+.form-check-input{
+    border: 2px solid black;
+}
+.form-select{
+    border: 1px solid black;
+}
+.antialiased{
+    /* background: url("https://babartravels.in/images/banner33.png")center/cover no-repeat; */
+    background-color: rgb(143, 143, 242);
+}
+.col-12{
+    display: inline-block;
+}

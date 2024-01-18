@@ -1,0 +1,49 @@
+.form-label,  .form-check-label{
+    font-weight: bold;
+}
+.antialiased{
+    width: 100%;
+
+}
+.mb-3,.btn{
+  margin-left: 10%;
+}
+.btn{
+    color: black;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: rgb(231, 148, 88);
+    color: white;
+}
+#exampleCheck1{
+    border: 1px solid black;
+}
+.form-control{
+    border: 1px solid black;
+}
+.container-form{
+    display: flex;
+}
+.form1-image-container img{
+    float: left;
+  
+}
+.form1{
+    width: 100%;
+}
+.form1 img{
+    width: 600px;
+    height: 500px;
+}
+.form1 div{
+    margin-top: 25px;
+}
+.form1 h1{
+    font-weight: bold;
+    font-size: 25;
+    margin-left: 60px;
+    margin-top: 15px;
+    text-decoration: underline;
+
+}

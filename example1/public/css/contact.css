@@ -1,0 +1,13 @@
+.form1{
+    display:inline-block; 
+}
+.form1 img{
+    margin-left: 220px;
+    width: 600px;
+    height: 530px;
+    margin-top: -70px;
+}
+.name input{
+    width: 300px;
+ top: -300px;
+}

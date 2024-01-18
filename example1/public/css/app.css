@@ -1,0 +1,25 @@
+.navbar-nav .nav-link{
+    color: yellow !important; /* Change the color value as needed */ 
+    font-size:25px;   
+ }
+ .navbar-nav .nav-link:hover{
+    color: rgb(247, 247, 245)!important;
+    font-size:25px;   
+ }
+ .navbar-brand{
+    font-size: 30px;
+ }
+ .navbar-brand:hover{
+    color: yellow!important;
+ }
+ .btn{
+    font-size: 18px;
+    margin-left: 10px;
+ }
+ .image-container{
+     width: 800px;
+    height: 400px;
+  margin-left: -13px;
+    
+ }
+
